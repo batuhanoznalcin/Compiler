@@ -1,0 +1,15 @@
+
+x = 10 + x;
+
+if(x == 11)
+	then
+	out x;
+	Endif
+
+while(x < 20)
+	begin
+	x = 1 + x;
+	out x;
+	Endwhile
+
+Endoffile
